@@ -1,5 +1,5 @@
-**MyBnb Rental Room Management**********
-Overview
+******MyBnb Rental Room Management******
+- Overview
 
 This Java project simulates a simple room rental management system. The program uses a class MyBnb to manage an array list of rental rooms represented by the RentalRoom class. The system allows you to check the number of rooms available with a specific bed count, book a room based on the number of beds required, and calculate the number of staff needed based on booked rooms.
 Project Files
