@@ -63,15 +63,13 @@ How to Run
 
 Compile and Run:
 
-    Compile all the Java files:
 
-    bash
 
+   
+```
 javac MyBnb.java RentalRoom.java RoomsTest.java
-
+```
 Run the RoomsTest class:
-
-bash
 
     java RoomsTest
 
